@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T17:01:49Z" name="Default suite" finished-at="2024-09-22T17:01:52Z" duration-ms="3161">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T17:01:49Z" name="Default test" finished-at="2024-09-22T17:01:52Z" duration-ms="3161">
+      <class name="phase3project1.ReqResTest">
+        <test-method signature="GetAllEmployee()[pri:0, instance:phase3project1.ReqResTest@132e0cc]" started-at="2024-09-22T17:01:49Z" name="GetAllEmployee" finished-at="2024-09-22T17:01:50Z" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllEmployee -->
+        <test-method signature="GetSingleEmployee()[pri:0, instance:phase3project1.ReqResTest@132e0cc]" started-at="2024-09-22T17:01:50Z" name="GetSingleEmployee" finished-at="2024-09-22T17:01:51Z" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleEmployee -->
+        <test-method signature="PostEmployee()[pri:0, instance:phase3project1.ReqResTest@132e0cc]" started-at="2024-09-22T17:01:51Z" name="PostEmployee" finished-at="2024-09-22T17:01:52Z" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostEmployee -->
+      </class> <!-- phase3project1.ReqResTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
